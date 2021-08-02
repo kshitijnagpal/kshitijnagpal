@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kshitijnagpal
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React and State Management soultions
+- 🌱 I’m currently learning react and state management soultions
 - 💞️ I’m looking to collaborate on full stack application development
 - 📫 How to reach me: Email: kshitij_nagpal@yahoo.com
 
